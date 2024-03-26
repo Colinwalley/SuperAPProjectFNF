@@ -13,7 +13,8 @@ Answer these questions: What is your project? Why'd you build it?
  Summarize your goals, non-goals, and project requirements from your design doc. Make sure to link your design doc here as well.
  
  <h3>Sprint Goal</h3>
-<strong>FILL THIS IN</strong><br/>
+<strong>Goal 1:To use AI logic and create a bot that the player plays against to test their skills. Would have to program each part of the bots song. If time permits create difficulty levels.
+Goal 2:Create a Play screen and a setting for the game as it's currently blank. Also implement music to create a completeness.</strong><br/>
 
 <h2>Key learnings</h2>
 <strong>FILL THIS IN</strong><br/>
