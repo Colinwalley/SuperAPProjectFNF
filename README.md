@@ -5,12 +5,12 @@
 <br/>
 
 <h2>About</h2>
-<strong>FILL THIS IN</strong><br/>
-Answer these questions: What is your project? Why'd you build it?
+<strong>My project is a Friday Night Funkin' parody using Roblox Studio. I built it because I enjoy creating games and I've only created games on Roblox Studio using Lua. The original game is a lot of fun so I thought I'd make my own animations and take on it through Roblox.</strong><br/>
 
 <h2>Goal and requirements</h2>
-<strong>FILL THIS IN</strong><br/>
- Summarize your goals, non-goals, and project requirements from your design doc. Make sure to link your design doc here as well.
+<strong>My goals: to create a fully functioning and appealing game with smooth animations and fun gameplay. To use AI as an opponent 
+because it is single player. To create a functioning point system based on how accurately timed you press the arrows. 
+Non-Goals: Not trying to create something for multiplayer, simply focusing on a single player server for now. <a href="https://docs.google.com/document/d/1GOU82DIIEijGx-5gEwD-2fcL7-4JmwhMmuwo9_W6fBc/edit?usp=sharing"> Design Doc</a></strong><br/>
  
  <h3>Sprint Goal</h3>
 <strong>Goal 1:To use AI logic and create a bot that the player plays against to test their skills. Would have to program each part of the bots song. If time permits create difficulty levels.
