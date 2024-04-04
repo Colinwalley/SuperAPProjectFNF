@@ -1,7 +1,6 @@
 # SuperAPProjectFNF
-<div align="center">(optional) Project photo</div>
-<h1 align="center">Project Name</h1>
-<p align="center"><strong>One-line description</strong>
+<h1 align="center">Monday Night Funkin'</h1>
+<p align="center"><strong>Friday Night Funkin' Parody</strong>
 <br/>
 
 <h2>About</h2>
@@ -21,11 +20,10 @@ Goal 2:Create a Play screen and a setting for the game as it's currently blank. 
 So... what did you learn? (start this, but **come back to it at the end of the sprint**)
 
 <h2>Running your project</h2>
-<strong>FILL THIS IN</strong><br/>
-How would I, or anyone who comes across this project, run this project? Make sure to include all the steps.
+<strong>Go to roblox.com and create and account. Click on the search bar and type in Hydra1246, click on my profile then my games.Click on the one titled Monday Night Funkin' and click "Play"</strong><br/>
 
 <h2>Misc.</h2>
-Feel free to add anything else you want here :)
+<a href="https://smartcdn.gprod.postmedia.digital/healthing/wp-content/uploads/2020/01/poo-emoji-scaled-2560.jpg?quality=90&strip=all&w=704&h=395">How I felt when I finished my project</a>
 
 <h2>Copyright</h2>
 This project is licensed under the terms of the MIT license and protected by Udacity Honor Code and Community Code of Conduct. See <a href="LICENSE.md">license</a> and <a href="LICENSE.DISCLAIMER.md">disclaimer</a>.
